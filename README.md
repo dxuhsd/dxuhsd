@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dxuhsd
-- 👀 I’m an UX/UI intern
-- 🌱 I’m currently learning how to be a good UX/UI designer!
+- 👀 I’m an UX/UI Designer
 - 💞️ I’m looking to collaborate on upcoming projects
 - 📫 How to reach me : email and slack
 
